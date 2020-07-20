@@ -31,6 +31,11 @@ As an external contributor, i mainly work with:
 * Python
 * C++
 
+
+## Last note
+
+This profile is currently a wip, it will be updated soon :)
+
 <!--
 **nerzhul/nerzhul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
