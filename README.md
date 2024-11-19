@@ -1,12 +1,16 @@
 ## Current position
 
-I'm lead SRE in Foundation Tribe at [Veepee](https://careers.veepee.com/).
+I am current a Platform SRE at [Exoscale](https://exoscale.com) an European cloud provider focused on quality and data privacy.
 
-As a lead SRE i manage the sprint of our SRE team dedicated to provide IT services for the business IT of Veepee in order to enhance the productivity level of the business teams. Here is an example list of service under my responsibility:
+I'm working in Vultures team, providing Kubernetes platform leveraging the cloud provider and SKS, our Kubernetes on demand cloud offer.
+
+## Previous position
+
+I was lead SRE in Foundation Tribe at [Veepee](https://careers.veepee.com/).
+
+As a lead SRE i managed the roadmap of our SRE team dedicated to provide IT services for the business IT of Veepee in order to enhance the productivity level of the business teams. Here is an example list of service under my responsibility:
 
 * [Gitlab](https://about.gitlab.com)
-* [Jira](https://www.atlassian.com/software/jira)
-* [Confluence](https://www.atlassian.com/software/confluence)
 * [Artifactory](https://jfrog.com/artifactory/)
 * [Veepee on premise Kubernetes](https://kubernetes.io)
 * Veepee media delivery servers
@@ -17,13 +21,13 @@ As a lead SRE i manage the sprint of our SRE team dedicated to provide IT servic
 
 As a SRE i'm mainly working with the following languages:
 
-* Golang
-* Python
+* Golang (developped many cloud first Kubernetes controllers)
+* Python (please not)
 
 Here is also some templating & formating models i use for our daily tasks:
 
-* Yaml (no it's not a language haha)
 * Helm
+* Kustomize
 
 As an external contributor, i mainly work with:
 
