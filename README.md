@@ -1,6 +1,6 @@
 ## Current position
 
-I am current a Platform SRE at [Exoscale](https://exoscale.com) an European cloud provider focused on quality and data privacy.
+I am current a Platform SRE at [Exoscale](https://exoscale.com) a leading European cloud provider focused on quality and data privacy.
 
 I'm working in Vultures team, providing Kubernetes platform leveraging the cloud provider and SKS, our Kubernetes on demand cloud offer.
 
